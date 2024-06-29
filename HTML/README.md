@@ -1,4 +1,5 @@
 # Intro To HTML
+## . HTML describes the structure of a Web page.
 ### Can complete HTML in 30 days continuously by practicing it everyday for 2-3 hours
 ## `` HyperText Markup Language``
 ### ``!DOCTYPE html`` declaration defines that this document is an HTML document
