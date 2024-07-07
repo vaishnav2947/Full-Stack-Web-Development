@@ -1,2 +1,2 @@
 # JAVASCRIPT
-## Free resources for practicing JS : coddy.tech
+## [Practice JAVASCRIPT](https://coddy.tech)
